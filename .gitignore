@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Extra
+guildData/
+archive/
+.evalOutput.txt
+Lib/
